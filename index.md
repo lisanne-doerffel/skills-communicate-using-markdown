@@ -6,3 +6,6 @@ Code example:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Test Checkboxes
+- [ ] Test No. 2
